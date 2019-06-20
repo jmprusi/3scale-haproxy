@@ -12,6 +12,8 @@ go mod vendor
 go run main.go
 ```
 
+Or you can use the published docker: quay.io/jmprusi/3scale-haproxy:latest
+
 Install HAProxy: 
 
 ```
